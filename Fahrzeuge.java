@@ -25,7 +25,7 @@ public class Fahrzeuge
      * @param  y  a sample parameter for a method
      * @return    the sum of x and y
      */
-    public int sampleMethod(int y)
+    public int sampleMethod(inasdfasdft y)
     {
         // put your code here
         return x + y;
