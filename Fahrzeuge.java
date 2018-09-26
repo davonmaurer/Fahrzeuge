@@ -7,7 +7,11 @@
  */
 public class Fahrzeuge
 {
-   public Fahrzeuge(){
-    
-   }
+    private String name;
+    private int beschleungiung;
+    public Fahrzeuge(String name, int beschleunigung)
+    {
+        this.name = name;
+        this.beschleungiung = beschleungiung;
+    }
 }
